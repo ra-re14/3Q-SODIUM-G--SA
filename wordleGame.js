@@ -1,5 +1,5 @@
 var chances = 5;
-var words = ['night', 'fires'];
+var words = ['Night', 'Fires','Blaze','Cramp','Flute','Grasp','Hinge','Jumps','Snack','Latch','Mirth','Nudge','Plumb','Quirk','Rinse','Swept','Tread','Vigor','Whelp','Xylen','Yacht','Zebra','Bison','Charm','Douse','Elfin','Flock','Grape','Hasty','Ivory','Jumpy','Kites','Lymph','Molar','Nifty','Opine','Paved','Quest','Ravel','Slink','Tonic','Usher','Vapid','Woven','Yodel','Zesty','Ached','Blunt','Cower'];
 var selectedWord = words[Math.round(Math.random(0,1))].toUpperCase();
 let row = 0;
 let win = false;
